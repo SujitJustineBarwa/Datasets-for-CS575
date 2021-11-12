@@ -1,0 +1,71 @@
+Case,Number,CaseNumber,Slice Range,Slice Start Number,Slice End Number,Number of Slices
+Case ,2,Case 2,17 - 53,17,53,37
+Case ,4,Case 4,30 - 37,30,37,8
+Case ,6,Case 6,38 - 60,38,60,23
+Case ,10,Case 10,35 - 37,35,37,3
+Case ,13,Case 13,36 - 47,36,47,12
+Case [Slice Missing],18,Case [Slice Missing]18,45 - 60,45,60,10
+Case ,20,Case 20,34 - 48,34,48,15
+Case ,21,Case 21,43 - 51,43,51,9
+Case ,22,Case 22,35 - 42,35,42,8
+Case ,26,Case 26,39 - 40,39,40,2
+Case ,27,Case 27,27 - 40,27,40,14
+Case ,31,Case 31,21 - 39,21,39,19
+Case ,37,Case 37,30 - 41,30,41,12
+Case ,38,Case 38,31 - 44,31,44,14
+Case ,40,Case 40,26 - 64,26,64,39
+Case ,41,Case 41,22 - 52,22,52,31
+Case ,42,Case 42,33 - 37,33,37,5
+Case ,43,Case 43,43 - 52,43,52,10
+Case ,44,Case 44,17 - 24,17,24,8
+Case ,51,Case 51,26 - 34,26,34,9
+Case ,54,Case 54,16 - 26,16,26,11
+Case ,59,Case 59,22 - 55,22,55,34
+Case ,61,Case 61,16 - 23,16,23,8
+Case ,62,Case 62,24 - 61,24,61,38
+Case ,63,Case 63,21 - 29,21,29,9
+Case ,68,Case 68,41 - 44,41,44,4
+Case ,74,Case 74,24 - 29,24,29,6
+Case ,79,Case 79,22 - 55,22,55,34
+Case ,81,Case 81,30 - 35,30,35,6
+Case [Slice Missing],82,Case [Slice Missing]82,28 - 53,28,53,11
+Case ,86,Case 86,38 - 55,38,55,18
+Case ,87,Case 87,15 - 16,15,16,2
+Case ,92,Case 92,37 - 40,37,40,4
+Case ,97,Case 97,19 - 21,19,21,3
+Case ,100,Case 100,38 - 45,38,45,8
+Case ,104,Case 104,20 - 41,20,41,22
+Case [Slice Missing],107,Case [Slice Missing]107,33 - 60,33,60,21
+Case ,111,Case 111,19 - 58,19,58,40
+Case ,113,Case 113,26 - 45,26,45,20
+Case ,122,Case 122,27 - 58,27,58,32
+Case ,126,Case 126,32 - 58,32,58,27
+Case [Slice Missing],131,Case [Slice Missing]131,13 - 57,13,57,40
+Case ,132,Case 132,24 - 26,24,26,3
+Case ,139,Case 139,25 - 37,25,37,13
+Case ,140,Case 140,30 - 35,30,35,6
+Case ,143,Case 143,27 - 53,27,53,27
+Case [Slice Missing],146,Case [Slice Missing]146,7 - 33,7,33,15
+Case ,147,Case 147,15 - 51,15,51,37
+Case ,152,Case 152,31 - 46,31,46,16
+Case ,155,Case 155,26 - 52,26,52,27
+Case ,158,Case 158,41 - 51,41,51,11
+Case ,163,Case 163,15 - 19,15,19,5
+Case ,165,Case 165,23 - 39,23,39,17
+Case ,167,Case 167,21 - 35,21,35,15
+Case ,169,Case 169,6 - 16,6,16,11
+Case ,173,Case 173,30 - 44,30,44,15
+Case [Slice Missing],176,Case [Slice Missing]176,31 - 50,31,50,16
+Case ,182,Case 182,11 - 54,11,54,44
+Case ,183,Case 183,21 - 46,21,46,26
+Case ,186,Case 186,38 - 43,38,43,6
+Case ,187,Case 187,14 - 25,14,25,12
+Case ,189,Case 189,27 - 46,27,46,20
+Case ,190,Case 190,19 - 39,19,39,21
+Case ,191,Case 191,24 - 50,24,50,27
+Case ,192,Case 192,18 - 27,18,27,10
+Case ,194,Case 194,22 - 57,22,57,36
+Case ,195,Case 195,22 - 55,22,55,34
+Case ,196,Case 196,19 - 51,19,51,33
+Case ,198,Case 198,24 - 48,24,48,25
+Case ,200,Case 200,26 - 39,26,39,14
